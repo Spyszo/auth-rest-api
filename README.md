@@ -33,6 +33,6 @@ Przed uruchomieniem utworzyć pilk .env z następującymi zmiennymi:
     /api/account/changePassword
  
  
- #Do zrobienia
+#Do zrobienia
  - protokół https
  - opis każdego endpointa
