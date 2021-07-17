@@ -1,2 +1,2 @@
-# auth-rest-api
+# REST API
  API do rejestracji i logowania użytkowników
