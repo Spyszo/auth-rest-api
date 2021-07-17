@@ -19,6 +19,7 @@ SSL=<true|false>
  API korzysta z bazy danych mongodb. Przed uruchomieniem api należy wygenerować odpowiedni string do połączenia się z mongodb.
  
  Dostępne Endpointy: 
+ 
     /api/auth/register
     /api/auth/login
     /api/auth/verify
