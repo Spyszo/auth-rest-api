@@ -18,7 +18,23 @@ Przed uruchomieniem utworzyć pilk .env z następującymi zmiennymi:
  
  API korzysta z bazy danych mongodb. Przed uruchomieniem api należy wygenerować odpowiedni string do połączenia się z mongodb.
  
- Dostępne Endpointy (POST): 
+Biblioteki wykorzystane w API:
+ - Axios
+ - BCryptJS
+ - Express
+ - Jest
+ - JWT
+ - Passport
+ - Nodemailer
+ - Mongoose
+
+Dostępne skrypty
+- npm start
+- npm test
+
+ npm test wykona kompleksowy test api. Przed jego wykonaniem należy upewnić się, że api zostało uruchomine na porcie 4000.
+ 
+Dostępne Endpointy (POST): 
  
     /api/auth/register
     /api/auth/login
