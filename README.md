@@ -32,7 +32,7 @@ Dostępne skrypty:
 - npm start
 - npm test
 
- npm test wykona kompleksowy test api. Przed jego wykonaniem należy upewnić się, że api zostało uruchomine na porcie 4000.
+ npm test wykona kompleksowy test api. Przed jego wykonaniem należy upewnić się, że api zostało uruchomione na porcie 4000.
  
 Dostępne Endpointy (POST): 
  
