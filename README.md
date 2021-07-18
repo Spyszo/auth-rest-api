@@ -18,7 +18,7 @@ Przed uruchomieniem utworzyć pilk .env z następującymi zmiennymi:
  
  API korzysta z bazy danych mongodb. Przed uruchomieniem api należy wygenerować odpowiedni string do połączenia się z mongodb.
  
- Dostępne Endpointy: 
+ Dostępne Endpointy (POST): 
  
     /api/auth/register
     /api/auth/login
