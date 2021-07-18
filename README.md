@@ -36,3 +36,4 @@ Przed uruchomieniem utworzyć pilk .env z następującymi zmiennymi:
 # Do zrobienia
  - protokół https
  - opis każdego endpointa
+ - logowanie z google/facebook
