@@ -28,7 +28,7 @@ Biblioteki wykorzystane w API:
  - Nodemailer
  - Mongoose
 
-Dostępne skrypty
+Dostępne skrypty:
 - npm start
 - npm test
 
